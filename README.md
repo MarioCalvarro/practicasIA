@@ -1,1 +1,1 @@
-# practicasIA
+# Prácticas IA 2
